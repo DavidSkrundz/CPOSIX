@@ -1,0 +1,4 @@
+module CPOSIX [system] {
+	header "Headers/CPOSIX.h"
+	export *
+}
